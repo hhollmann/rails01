@@ -1,0 +1,35 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=C:\Sites\railsinstaller_demo
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+DocumentRoot=sites
+HTServer=localhost:3000
+[Project tree]
+railsinstaller_demo
+	+Dateien
+		config\routes.rb
+		app\views\welcome\index.html.erb
+[Open project files]
+0=Neu1.txt
+1=config\routes.rb
+2=app\views\welcome\index.html.erb
+[Selected Project Files]
+Main=
+Selected=config\routes.rb
+[Neu1.txt]
+TopLine=1
+Caret=1,1
+[config\routes.rb]
+TopLine=1
+Caret=20,30
+[app\views\welcome\index.html.erb]
+TopLine=1
+Caret=43,1
